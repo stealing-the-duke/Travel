@@ -9,7 +9,10 @@ New York
 Maine
 Conneticut
 New Hampshire
-
+Illinois
+DC
+Maryland
+Virginia
 
 Foreign:
 Germany
